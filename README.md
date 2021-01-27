@@ -23,7 +23,9 @@ This web application is designed to BLANK
 
 ## Specs
 
-
+Describe: isTicketPrice()
+Test: 
+Expect
 
 ## Setup/Installation Requirements
 
