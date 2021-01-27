@@ -56,13 +56,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * olgainfotech@gmail.com
 * thisisjameswyn@gmail.com
 * salazardiego343@gmail.com
-
-CO AUTHOR INFO's
-
-Co-authored-by: Sage Sypert <sage.sypert@gmail.com>
-
-Co-Authored by: Olha Hizhytska <olgainfotech@gmail.com>
-
-Co-authored-by: James Wyn <thisisjameswyn@gmail.com>
-
-Co-authored-by: Diego Salazar <salazardiego343@gmail.com>
